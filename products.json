@@ -1,0 +1,36 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    
+    {
+        "name": "iphone10",
+        "price": 1154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iwatch",
+        "price": 1544,
+        "company": "apple"
+    },
+    {
+        "name": "Dell",
+        "price": 2022,
+        "company": "apple"
+    },
+    {
+        "name": "mi20",
+        "price": 701,
+        "company": "mi"
+    },
+
+    {
+        "name": "Redmi",
+        "price": 701,
+        "company": "mi"
+    }
+]
